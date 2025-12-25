@@ -1,0 +1,24 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "主 UI 模块"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "主 UI Ability"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "CloudChat"
+    },
+    {
+      "name": "permission_reason_INTERNET",
+      "value": "用于网络通讯"
+    },
+    {
+      "name": "error_login_AccountOrPasswordRequireNotNull",
+      "value": "账号或密码不能为空"
+    }
+  ]
+}

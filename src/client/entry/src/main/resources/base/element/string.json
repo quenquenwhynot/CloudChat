@@ -13,8 +13,12 @@
       "value": "CloudChat"
     },
     {
-      "name": "Permission_REASON_INTERNET",
+      "name": "permission_reason_INTERNET",
       "value": "For network"
+    },
+    {
+      "name": "error_login_AccountOrPasswordRequireNotNull",
+      "value": "Account or password require not empty"
     }
   ]
 }
